@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Новая папака Проект ВвЯ/1.0.0": {
+        "runtime": {
+          "Новая папака Проект ВвЯ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Новая папака Проект ВвЯ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

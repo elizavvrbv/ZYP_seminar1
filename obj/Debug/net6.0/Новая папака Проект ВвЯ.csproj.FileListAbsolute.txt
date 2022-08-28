@@ -1,0 +1,15 @@
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\bin\Debug\net6.0\Новая папака Проект ВвЯ.exe
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\bin\Debug\net6.0\Новая папака Проект ВвЯ.deps.json
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\bin\Debug\net6.0\Новая папака Проект ВвЯ.runtimeconfig.json
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\bin\Debug\net6.0\Новая папака Проект ВвЯ.dll
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\bin\Debug\net6.0\Новая папака Проект ВвЯ.pdb
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.AssemblyInfoInputs.cache
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.AssemblyInfo.cs
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.dll
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\refint\Новая папака Проект ВвЯ.dll
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.pdb
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\Новая папака Проект ВвЯ.genruntimeconfig.cache
+C:\Users\mi\Desktop\GeekBrains\Новая папака Проект ВвЯ\obj\Debug\net6.0\ref\Новая папака Проект ВвЯ.dll
